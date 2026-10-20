@@ -8,7 +8,7 @@
 <a href="https://avisheklodh.com"><img src="https://img.shields.io/badge/🌐_Portfolio-5E6AD2?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/avisheklodh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:alodh2@asu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://pwn.college"><img src="https://img.shields.io/badge/pwn.college-101010?style=for-the-badge&logo=hackthebox&logoColor=white" alt="pwn.college" /></a>
+
 
 <br/><br/>
 
